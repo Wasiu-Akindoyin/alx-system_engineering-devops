@@ -1,0 +1,1 @@
+This is a readme file on 0x05. Processes and signals in ALX Software Engineering Program by Wasiu Olanrewaju Akindoyin from Cohort 9.
