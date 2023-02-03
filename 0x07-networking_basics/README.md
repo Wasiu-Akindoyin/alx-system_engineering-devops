@@ -1,0 +1,1 @@
+This is a readme file on 0x07. Networking basics #0 in ALX Software Engineering Program by Wasiu Olanrewaju Akindoyin from cohort 9.
